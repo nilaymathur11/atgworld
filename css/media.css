@@ -11,6 +11,17 @@
 }
 
 @media only screen and (max-width:767px){
+    .post_title{
+        font-size: 18px;
+    }
+
+    .abt_post{
+        font-size: 16px;
+    }
+
+    .name{
+        font-size: 16px;
+    }
 
     .header_top {
         padding: 20px 0px;
@@ -30,6 +41,7 @@
     }
 
     .mob_signup_page{
+        position: fixed;
         transition: 0.4s;
         bottom: -100%;
     }
