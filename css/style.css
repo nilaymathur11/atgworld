@@ -1,6 +1,6 @@
 * {
-    margin: 0;
-    padding: 0;
+    margin: 0px !important;
+    padding: 0px;
 }
 
 ul {
@@ -22,7 +22,8 @@ main {
 }
 
 .header_top {
-    padding: 20px 70px;
+    padding: 20px 0px;
+    padding-right: 100px;
 }
 
 .logo_1 {
